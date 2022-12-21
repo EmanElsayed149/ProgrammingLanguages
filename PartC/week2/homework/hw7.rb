@@ -148,8 +148,8 @@ class Point < GeometryValue
     else
       NoPoints.new
     end
-  end
-  private def inbetween(v,end1,end2)
+  end 
+   def inbetween(v,end1,end2)
     e = GeometryExpression::Epsilon
     ((v >= end1 - e and v <= end2 + e) or (v >= end2 - e and v <= end1 + e))
   end
