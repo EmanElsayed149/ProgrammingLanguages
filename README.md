@@ -28,3 +28,5 @@
 |**functional Language**| Racket                | SML                 |
 |**Object-oriented**    | Ruby                  | Java/C#             |
 
+### Finally these are links of the course parts 
+[Programming Languages A] (https://www.coursera.org/learn/programming-languages)
