@@ -29,6 +29,6 @@
 |**Object-oriented**    | Ruby                  | Java/C#             |
 
 ### Finally links of course parts :
-[Programming Language A](https://www.coursera.org/learn/programming-languages)
-[Programming Language B](https://www.coursera.org/learn/programming-languages-part-b)
-[Programming Language C](https://www.coursera.org/learn/programming-languages-part-c)
+- [Programming Language A](https://www.coursera.org/learn/programming-languages)
+- [Programming Language B](https://www.coursera.org/learn/programming-languages-part-b)
+- [Programming Language C](https://www.coursera.org/learn/programming-languages-part-c)
